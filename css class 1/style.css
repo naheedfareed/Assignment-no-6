@@ -1,0 +1,42 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1,h2{
+    color:blueviolet;
+}
+p{
+    color: aquamarine;
+}
+*{
+    background-color: brown;
+}
+*{
+    background-color: cornflowerblue;
+}
+h1{
+    color: blue;
+}
+.note{
+    font-size: medium;color: blueviolet ;
+
+}
+p.note{
+    font-size: large;color: brown;
+}
+#introduction{
+    background-image: -o-linear-gradient();color: black;
+}
+li>a{
+    font-size: larger;color: rg (204, 204, 70);
+}
+p a {
+    color: chartreuse;
+}
+h1+p{
+    color: coral;
+}
+h1~p{
+    color: crimson;
+}
+*{
+    background-color:aquamarine
